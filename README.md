@@ -8,4 +8,3 @@
 | X Band    Least used, almost no cops use it. Undercover cops use it potentially 👮 (1 occurrence) |
 | K Band    Could be a cop, very unlikely though. Many are false alerts (automatic doors) that happen. 👮 (1 occurrence) |
 | Ka Band    Most commonly used by cops, false alerts are super rare. |
-|-|-|
