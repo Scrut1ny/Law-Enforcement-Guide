@@ -34,7 +34,7 @@
 
 #### MISC
 | ``Instructions/Info`` |
-|-|
+|-|-|
 | rdforum | [Link](https://www.rdforum.org/) |
 | Configurion for Uniden R7 | [Link](https://www.vortexradar.com/2019/04/how-to-set-up-configure-uniden-r7-radar-detector/) |
 | State Used Radar Bands | [Link](https://keepspeedincheck.com/police-radar-brands-used-by-state/) |
