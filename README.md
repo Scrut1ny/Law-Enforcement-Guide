@@ -30,7 +30,7 @@
 | ``Pulled Over Help`` |
 |-|
 | #1 Be as respectful and cooperative as possible BUT still within YOUR LEGAL RIGHTS. |
-| Police will touch the back of your vehicle to leave fingerprints/DNA for evidence they had came in contact with your vehicle for later inciminating evidence if needed. |
+| Police will touch the back of your vehicle to leave fingerprints/DNA for evidence they had came in contact with your vehicle for later inciminating evidence if subject. |
 | Never admit anything to a cop; Anything you say can and will be used against you in a court of law. |
 | When pulled over, answer the required questions the cop asks you then INVOKE THE 5TH & stay quiet. Anything you say can and will be used against you in a court of law. |
 | ``Extreme`` |
