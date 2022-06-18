@@ -27,3 +27,9 @@
 | Police Tactics Police have circular tube tracking beacons they can shoot from the front of their cars to your car to track you down if you do escape. (These devices are only used on the modern police interceptors or undercover ones) |
 | Police Tactics Police WILL lie to you about almost anything (except laws & having a warrant) to get you to confess to something. Even during polygraph tests they’ll lie to you about telling the truth or not. |
 | Police Tactics Police might offer you a drink @ their station or somewhere else to obtain your fingerprints + DNA. It’s their property. |
+
+#### MISC
+| ``Instructions/Info`` |
+|-|
+| Configurion for Uniden R7 | [Link](https://www.vortexradar.com/2019/04/how-to-set-up-configure-uniden-r7-radar-detector/) |
+| State Used Radar Bands | [Link](https://keepspeedincheck.com/police-radar-brands-used-by-state/) |
