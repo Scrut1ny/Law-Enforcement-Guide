@@ -33,7 +33,7 @@
 | Police might offer you a drink at their station or somewhere else to obtain your fingerprints/DNA. It’s their property. |
 
 #### MISC
-| ``Instructions/Info`` |
+| ``Instructions/Info`` | ``Links`` |
 |-|-|
 | rdforum | [Link](https://www.rdforum.org/) |
 | Configurion for Uniden R7 | [Link](https://www.vortexradar.com/2019/04/how-to-set-up-configure-uniden-r7-radar-detector/) |
