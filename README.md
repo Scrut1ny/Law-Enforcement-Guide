@@ -15,9 +15,9 @@
 #### Police Equipment
 | ``Bands`` | ``Info`` |
 |-|-|
-| X Band | Least used, almost no cops use it. Undercover cops use it potentially 👮 (1 occurrence) |
-| K Band | Could be a cop, very unlikely though. Many are false alerts (automatic doors) that happen. 👮 (1 occurrence) |
-| Ka Band | Most commonly used by cops, false alerts are super rare. |
+| ``X Band`` | X band radar is defined as radar waves that fall between 8.0ghz and 12ghz, but law enforcement X band radar guns operate universally on 10.5ghz. This is the oldest type of licensed police radar frequency, and is not widely used anymore. It does still exist, so we don’t recommend turning off X band in your settings – it is mostly found in rural areas, or in areas where police departments did not have adequate funding to upgrade to more modern radar guns. |
+| ``K Band`` | K band radar is the chunk of radar frequency that stretches from 18ghz-27ghz. Luckily for us, police K band radar operates strictly at 24.125 and 24.15ghz. In the law enforcement world, K band radar began to be adopted a couple decades ago as a higher-performance alternative to X band radar. |
+| ``Ka Band`` | First introduced in 1983, Ka band radar is the “latest and greatest” law enforcement radar that is currently allowed to be used (all police radar is regulated by the FCC). Ka band is comprised of radar waves between 33.4 and 36.0ghz. Unfortunately for radar detector users, Ka band is slightly more complex than X and K bands. While X and K band police radar guns operate on just one or two frequencies, KA band guns operate on as many as five. |
 
 #### Police Physical/Verbal Tactics
 | ``Pulled Over Help`` |
