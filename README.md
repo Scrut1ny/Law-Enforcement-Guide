@@ -1,16 +1,16 @@
 # Police-Scrutiny
 
 #### Equipment to Avoid Police
-| ``Radar Detectors`` | ``Links`` |
-|-|-|
-| #1 Radenso DS1 | [Link](https://amzn.to/3QvCYzl) |
-| #2 Uniden R8 | [Link](https://amzn.to/3MWIQ1K) |
-| #3 Uniden R7 | [Link](https://amzn.to/3LXBKtC) |
-| ``Radio Communication`` | ``Links`` |
-| BAOFENG BF-F8H | [Link](https://amzn.to/3EbIm52) |
-| ``Apps`` | ``Links`` |
-| Police Scanner Radio & Fire | [Link](https://apps.apple.com/us/app/police-scanner-radio-fire/id498405045) |
-| Waze Navigation & Live Traffic | [Link](https://apps.apple.com/us/app/waze-navigation-live-traffic/id323229106) |
+| ``Radar Detectors`` | ``Links`` | ``Frequency Bands Supported`` |
+|-|-|-|
+| #1 Radenso DS1 | [Link](https://amzn.to/3QvCYzl) | X, K, Ka, Laser, MultaRadar (MRCT, MRCT), Gatso |
+| #2 Uniden R8 | [Link](https://amzn.to/3MWIQ1K) |  |
+| #3 Uniden R7 | [Link](https://amzn.to/3LXBKtC) |  |
+| ``Radio Communication`` | ``Links`` |  |
+| BAOFENG BF-F8H | [Link](https://amzn.to/3EbIm52) |  |
+| ``Apps`` | ``Links`` |  |
+| Police Scanner Radio & Fire | [Link](https://apps.apple.com/us/app/police-scanner-radio-fire/id498405045) |  |
+| Waze Navigation & Live Traffic | [Link](https://apps.apple.com/us/app/waze-navigation-live-traffic/id323229106) |  |
 
 #### Police Equipment
 | ``Bands`` | ``Info`` |
@@ -35,5 +35,6 @@
 #### MISC
 | ``Instructions/Info`` |
 |-|
+| rdforum | [Link](https://www.rdforum.org/) |
 | Configurion for Uniden R7 | [Link](https://www.vortexradar.com/2019/04/how-to-set-up-configure-uniden-r7-radar-detector/) |
 | State Used Radar Bands | [Link](https://keepspeedincheck.com/police-radar-brands-used-by-state/) |
