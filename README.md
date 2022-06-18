@@ -1,13 +1,12 @@
 # Police-Scrutiny
 
 #### Equipment to Avoid Police
-| Radar Detectors | Links |
+| ``Radar Detectors`` | ``Links`` |
 |-|-|
 | #1 Radenso DS1 | [https://amzn.to/3MWIQ1K](https://amzn.to/3tIRjz0) |
 | #2 Uniden R8 | [https://amzn.to/3MWIQ1K](https://amzn.to/3MWIQ1K) |
 | #3 Uniden R7 | [https://amzn.to/3LXBKtC](https://amzn.to/3LXBKtC) |
-| Radio Communication | Links |
-|-|-|
+| ``Radio Communication`` | ``Links`` |
 | BAOFENG BF-F8H | [https://amzn.to/3EbIm52](https://amzn.to/3EbIm52) |
 
 #### Police Equipment
