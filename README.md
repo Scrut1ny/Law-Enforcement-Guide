@@ -28,7 +28,7 @@
 | When pulled over, answer the required questions the cop asks you then INVOKE THE 5TH & stay quiet. Anything you say can and will be used against you in a court of law. |
 | ``Extreme`` |
 | Police ARE allowed to search & take your garbage outside. The garbage doesn’t belong to you anymore, it’s the government’s property then. |
-| Police have circular tube tracking beacons they can shoot from the front of their cars to your car to track you down if you do escape. (These devices are only used on the modern police interceptors or undercover ones) Example: [Link](https://www.youtube.com/watch?v=V36O09QQpnI) |
+| Police have circular tube tracking beacons they can shoot from the front of their cars to your car to track you down if you do escape. (These devices are only used on the modern police interceptors or undercover ones) Example: [Link](https://www.youtube.com/watch?v=V36O09QQpnI) also [Link](https://www.youtube.com/watch?v=SXb9UDWE_aw)|
 | Police WILL lie to you about almost anything (except laws & having a warrant) to get you to confess to something. During polygraph tests they’ll even lie to you about if you were telling the truth or not. |
 | Police might offer you a drink at their station or somewhere else to obtain your fingerprints/DNA. It’s their property. |
 
