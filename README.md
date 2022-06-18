@@ -12,7 +12,7 @@
 | BAOFENG BF-F8H | [Link](https://amzn.to/3EbIm52) |  |
 | ``Apps`` | ``Links`` |  |
 | Police Scanner Radio & Fire | [Link](https://apps.apple.com/us/app/police-scanner-radio-fire/id498405045) | Listen into all police activity in your county |
-| Waze Navigation & Live Traffic | [Link](https://apps.apple.com/us/app/waze-navigation-live-traffic/id323229106) | Find you way around the states but also be alert by hazards and especially police |
+| Waze Navigation & Live Traffic | [Link](https://apps.apple.com/us/app/waze-navigation-live-traffic/id323229106) | Find your way around the states but also be alert by hazards and especially police |
 
 #### Police Equipment
 | ``Bands/other`` | ``Info`` | ``States`` |
