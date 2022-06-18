@@ -8,6 +8,9 @@
 | #3 Uniden R7 | [Link](https://amzn.to/3LXBKtC) |
 | ``Radio Communication`` | ``Links`` |
 | BAOFENG BF-F8H | [Link](https://amzn.to/3EbIm52) |
+| ``Apps`` | ``Links`` |
+| Police Scanner Radio & Fire | [Link](https://apps.apple.com/us/app/police-scanner-radio-fire/id498405045) |
+| Waze Navigation & Live Traffic | [Link](https://apps.apple.com/us/app/waze-navigation-live-traffic/id323229106) |
 
 #### Police Equipment
 | ``Bands`` | ``Info`` |
