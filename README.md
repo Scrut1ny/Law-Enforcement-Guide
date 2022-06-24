@@ -10,6 +10,7 @@
 | #3 Uniden R7 | [Link](https://amzn.to/3LXBKtC) | * |
 | ``Radio Communication`` | ``Links`` |  |
 | BAOFENG BF-F8H | [Link](https://amzn.to/3EbIm52) | Communicate with friends, listen into the radio, or best listen into police activity only in a radius around you |
+| Uniden-HomePatrol-2 | [Link](https://www.amazon.com/Uniden-HomePatrol-2-Touchscreen-TrunkTracker-Emergency/dp/B00JJY6S72) |
 | ``Apps`` | ``Links`` |  |
 | Police Scanner Radio & Fire | [Link](https://apps.apple.com/us/app/police-scanner-radio-fire/id498405045) | Listen into all EMS, Firefighter, & police activity in your county |
 | Waze Navigation & Live Traffic | [Link](https://apps.apple.com/us/app/waze-navigation-live-traffic/id323229106) | Find your way around the states but also be alert by hazards and especially police |
