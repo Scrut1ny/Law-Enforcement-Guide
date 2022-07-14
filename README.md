@@ -37,13 +37,13 @@
 | Police will touch the back of your vehicle to leave fingerprints/DNA for evidence they had came in contact with your vehicle for later inciminating evidence if subject. |
 | Never admit anything to a cop; Anything you say can and will be used against you in a court of law. |
 | When pulled over, answer the required questions the cop asks you then INVOKE THE 5TH & stay quiet. Anything you say can and will be used against you in a court of law. |
+| Recording / Audio Recording - [First Amendment Right to Secretly Audio Record the Police](https://www.eff.org/deeplinks/2021/04/first-circuit-upholds-first-amendment-right-secretly-audio-record-police) - [You Have a First Amendment Right to Record the Police](https://www.eff.org/deeplinks/2020/06/you-have-first-amendment-right-record-police) - [First Amendment Protects Right to Record Police](https://www.eff.org/deeplinks/2019/05/eff-tenth-circuit-first-amendment-protects-right-record-police) |
 | ``Extreme`` |
 | Police ARE allowed to search & take your garbage outside. The garbage doesn’t belong to you anymore, it’s the government’s property then. |
 | Police have circular tube tracking beacons they can shoot from the front of their cars to your car to track you down if you do escape. (These devices are only used on the modern police interceptors or undercover ones) Example: [Link](https://www.youtube.com/watch?v=V36O09QQpnI) also [Link](https://www.youtube.com/watch?v=SXb9UDWE_aw)|
 | Police WILL lie to you about almost anything (except laws & having a warrant) to get you to confess to something. During polygraph tests they’ll even lie to you about if you were telling the truth or not. |
 | Police might offer you a drink at their station or somewhere else to obtain your fingerprints/DNA. It’s their property. |
 | Police Can’t Demand You Reveal Your Phone Passcode and Then Tell a Jury You Refused - [Link](https://www.eff.org/deeplinks/2021/10/police-cant-demand-you-reveal-your-phone-passcode-and-then-tell-jury-you-refused) |
-| Recording / Audio Recording - [First Amendment Right to Secretly Audio Record the Police](https://www.eff.org/deeplinks/2021/04/first-circuit-upholds-first-amendment-right-secretly-audio-record-police) - [You Have a First Amendment Right to Record the Police](https://www.eff.org/deeplinks/2020/06/you-have-first-amendment-right-record-police) - [First Amendment Protects Right to Record Police](https://www.eff.org/deeplinks/2019/05/eff-tenth-circuit-first-amendment-protects-right-record-police) |
 
 #### MISC
 | ``Instructions/Info`` | ``Links`` |
