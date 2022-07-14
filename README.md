@@ -42,7 +42,7 @@
 | Police have circular tube tracking beacons they can shoot from the front of their cars to your car to track you down if you do escape. (These devices are only used on the modern police interceptors or undercover ones) Example: [Link](https://www.youtube.com/watch?v=V36O09QQpnI) also [Link](https://www.youtube.com/watch?v=SXb9UDWE_aw)|
 | Police WILL lie to you about almost anything (except laws & having a warrant) to get you to confess to something. During polygraph tests they’ll even lie to you about if you were telling the truth or not. |
 | Police might offer you a drink at their station or somewhere else to obtain your fingerprints/DNA. It’s their property. |
-| Police Can’t Demand You Reveal Your Phone Passcode and Then Tell a Jury You Refused - (https://www.eff.org/deeplinks/2021/10/police-cant-demand-you-reveal-your-phone-passcode-and-then-tell-jury-you-refused)[Link] |
+| Police Can’t Demand You Reveal Your Phone Passcode and Then Tell a Jury You Refused - [Link](https://www.eff.org/deeplinks/2021/10/police-cant-demand-you-reveal-your-phone-passcode-and-then-tell-jury-you-refused) |
 
 #### MISC
 | ``Instructions/Info`` | ``Links`` |
