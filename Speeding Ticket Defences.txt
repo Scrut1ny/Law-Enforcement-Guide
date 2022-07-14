@@ -1,0 +1,284 @@
+
+			Speeding Ticket Notes
+
+====================================================
+
+Explain:
+
+ - Explain to Judge that the officer never specified / provided any info on how he obtained my speed;
+   Therefore my due process rights were violated because I was not able to prepare anadequate defence.
+   
+   * Due process: Requirement that courts respect all legal rights owed to people *
+
+ - I believe I was going the speed limit or most likely 5 over, I cannot recall.
+ - I was going down a hill & gained a bit of speed accidently & didn't realize.
+ - The car isn't mine & I was barrowing it & I'm not used to it etc. Didn't realize how fast I was going.
+ - I was alone at night on a empty road & had nothing to gage my speed with.
+ - My speedometer wasn't accurate.
+ - Officer made up excusses to search my car for no reason & said he had indications that he didn't.
+
+ - I'm young, a student, don't have much money, etc.
+
+Question:
+
+ - Question if device was properly calibrated the same day of use.
+ - Ask about the angle of deflection (If radar was used)
+	* Ask if it may have been picking up a different objects speed.
+ - 
+
+====================================================
+
+1 - Officer doesn't show up to court. / Continuing the case until the officer doesn't show up.
+
+Theres a likely chance the officer won't show up to court; 
+They have more important duties / situations to attend to.
+Case will be dismissed apon imminent succession.
+
+====================================================
+
+2 - Trial by Written Declaration
+
+# https://www.courts.ca.gov/documents/tr200.pdf
+# https://www.courts.ca.gov/documents/tr205.pdf
+
+2a - Trial De Novo (After "Trial by Written Declaration" if you don't like the results.)
+
+States That Allow Trial by Written Declaration:
+California, Florida, Hawaii, Indiana, Louisiana, Nebraska, Ohio, Oregon, & Wyoming.
+
+====================================================
+
+3 - No indication on the ticket of what speed measuring device obtained your speed.
+
+Go to the judge & explain to them how there is no
+indication on how the officer obtained your speed, &
+therefore your due process rights were violated because
+you were not able to prepare anadequate defence.
+
+====================================================
+
+4 - Challanging their Radar gun.
+
+The radar gun needs to be calibrated every day, or
+it could be off. Speeding tickets are based on the 
+calibration of the device. supposed to use tuning 
+forks each day to calibrate the radar.
+
+4a - Angle of Deflection
+
+Radar guns NEED to clock speed when the vehicle is DIRECTLY
+in front / behind for a possibly accurate speed reading.
+Cosine Effect Error applies to both radar & lidar guns.
+
+In court ask the officer what their angle of deflection was exactly.
+
+----------------------------------------------------
+
+Speed Radar
+
+Lots of speeding tickets involve the use of radar measurement systems because it's generally a reliable and 
+straightforward method for measuring vehicle speed. However, despite their general reliability, radar devices aren't infallible.
+How Do Police Radars Work?
+
+The word "radar" is an acronym for "Radio Detection and Ranging." In simple terms, radar uses radio waves 
+reflected off a moving object to determine its speed. With police radar, that moving object is your car. 
+Radar units generate the waves with a transmitter. When they bounce back off your car, they are picked up 
+and amplified by a receiver so they can be analyzed. The analysis is then reflected in a speed-readout device. 
+Radar systems use radio waves similar to those involved in AM and FM radio transmissions, but with a higher 
+frequency—up to 24 billion waves per second as compared to one million per second for AM radio.
+
+> Two Types of Radar Used by Police >>
+
+Typically, the radars police use are one of two types: car-mounted units that can be operated while the officer's 
+vehicle is stationary or moving and hand-held radar "guns."
+
+> Car-Mounted Units >>
+
+Most radar units used in patrol vehicles are shaped something like a side-mounted spotlight. 
+They are usually mounted on the rear left window of the police car facing toward the rear. 
+The officer reads your speed on a small console mounted on or under the dash. The unit has a 
+digital readout that displays the highest speed read during the second or two your vehicle passes through the beam.
+
+Most modern police radar units can also operate in a "moving mode," allowing the officer to 
+determine a vehicle's speed even though the officer's own patrol vehicle is moving.
+
+> Hand-Held Radar Units >>
+
+Hand-held radar guns are most often used by motorcycle officers. Radar guns use a trigger system. 
+So, the officer just pulls the trigger when he or she wants to measure a vehicle's speed.
+
+> When Radar Becomes Inaccurate >>
+
+Most radar errors result from the radar's operation in real-world conditions, which are often far 
+less than ideal. And, of course, human error can also cause radar devices to fail.
+
+> More Than One Car Is Speeding >>
+
+Radar beams are similar to flashlight beams—the farther the beam travels, the more it spreads out. 
+And this simple fact often results in bad speed readings because a spread-out beam can hit two 
+vehicles in adjacent lanes (or that are otherwise near each other).
+
+In other words, if you're in one lane and a faster vehicle is in another, the other vehicle will 
+produce a higher reading on the officer's radar unit, which the officer may mistakenly attribute to you.
+
+Most radar units have a beam angle, or spread, of 12 to 16 degrees. So, the beam width will be about 
+two lanes wide (approximately 40 feet) at a distance of only 160 feet from the radar gun.
+
+The inability of the equipment to distinguish between two separate objects is called "a lack of resolution."
+
+A few factors can make this kind of error more likely. Resolution problems are more likely to occur if 
+the other vehicle is larger than yours simply because the other vehicle has a greater surface area. 
+And, automatic radar units (or those set to automatic mode) tend to produce this type of error more 
+frequently than units that the officer manually turns on and off such as with a trigger system.
+
+> Wind, Rain, and Particles in the Air >>
+
+Although metal reflects radar beams better than most surfaces, pretty much any material will reflect 
+radar waves to some extent. In fact, on windy days, windblown dust or even tree leaves can be picked up by radar devices. 
+The same is true of rain, snow, and the like. Sometimes these spurious readings can be attributed to your vehicle.
+
+Pre-thunderstorm atmospheric electrical charges can also interfere with a radar unit. This interference occurs when 
+electrically charged storm clouds reflect a bad signal back to the radar unit even though they are high in the sky. 
+If such a storm cloud is traveling at a sufficient speed, a false radar reading can result.
+
+> Radar Calibration Problems >>
+
+Every scientific instrument used for measuring needs to be regularly calibrated to ensure its accuracy. 
+Radar equipment is no exception. It must be checked for accuracy against an object traveling at a known (not radar-determined) speed.
+
+Calibration of a radar unit typically involves using a tuning fork as the moving object. 
+Tuning forks are supplied by the manufacturer of the radar equipment and certified to correspond 
+to the speed marked on the fork. According to most operation manuals, a radar unit should be calibrated
+with the tuning forks before and after every shift. Ideally, several tuning forks vibrating at 
+different speeds should be used to check the radar unit's accuracy.
+
+It is time-consuming to use a tuning fork as a calibration device. So a second—but far less accurate—method 
+has been developed to check the accuracy of radar units. This second method is a "calibrate" or "test" 
+switch built into the radar unit itself. The unit reads a signal generated by an internal frequency-generating 
+device called a "crystal." The resulting number is supposed to correlate with a certain predetermined speed. 
+Unfortunately, these internal calibrating systems don't work as well as they're supposed to.
+
+> Are Radar Detectors Illegal? >>
+
+No discussion of radar would be complete without a few words on the technology of radar detectors—little 
+black boxes that consist of a sensitive radio receiver adjusted to pick up signals in the radar frequency range. 
+Many of the commercially available detectors have a sensitivity control that can be adjusted to give the best 
+compromise between trying to detect even faint, far-away police radar signals and attempting to screen out 
+off-frequency signals that come from sources other than police radar.
+
+In some states, radar detectors are illegal. And federal regulations generally prohibit commercial drivers from using radar detectors.
+
+====================================================
+
+5 - Does the officer have their valid: 
+certification, documentation, work orders (assoscieted with the lasar device)
+
+====================================================
+
+====================================================
+
+6 - Visual Estimation of speed
+
+- Ask if the officer went through training, and how long ago was their training.
+- What type of certification they obtained, and can they provide the proof they have it.
+- 
+
+====================================================
+
+====================================================
+
+7 - Pacing
+
+Many speeding tickets result from the police officer following or "pacing" a suspected speeder and using
+his or her own speedometer to estimate the suspect's speed.
+
+> How Pacing Works >>
+
+With this technique, the officer must maintain a constant distance between the police vehicle and the 
+suspect's car long enough to make a reasonably accurate estimate of its speed.
+
+Some states have rules requiring the officer to verify speed by pacing over a certain distance. 
+(For example, at least one-eighth or one-fourth of a mile.) In practice—even in states that don't require 
+pacing over a minimum distance—most traffic officers will usually try to follow you for a reasonable distance 
+to increase the effectiveness of their testimony, should you contest the ticket.
+
+> How Pacing Fails >>
+
+The accuracy of pacing depends on the officer's ability to maintain a constant distance from the target vehicle. 
+So any facts that might prevent the officer from doing so can lead to an inaccurate speed estimate. 
+For example, where an officer is a long way back from the target vehicle, it's more difficult to maintain a constant distance. 
+Hill, curves, and traffic can also make it hard for the officer to keep a constant following distance and lead to an inaccurate speed estimate. 
+
+Uncalibrated speedometer, officers operate random vehicles a lot and never check to calibrate.
+
+====================================================
+
+====================================================
+
+7 - VASCAR
+
+Most states allow police officers to catch speeders using a technology called VASCAR ("Visual Average Speed Computer and Recorder"). 
+VASCAR is basically a stopwatch coupled electronically with a calculator. The calculator divides the distance the target vehicle 
+travels (as recorded by the stopwatch) by the time it took to travel that distance.
+
+> How VASCAR Works >>
+
+VASCAR is not like a radar or laser gun, which gives a readout of a vehicle's speed by simply pointing and pulling the trigger. 
+A VASCAR unit requires far more human input than radar or laser guns—which greatly increases the possibility of mistakes.
+
+VASCAR works like this: The officer measures the distance between the two points—typically, by using the patrol car's odometer, which 
+is connected to the VASCAR unit. When the officer sees the target vehicle pass one of two points, the officer pushes a button to start 
+the electronic stopwatch, then pushes it again to stop it when the vehicle passes the second point.
+
+> How VASCAR Fails >>
+
+Using VASCAR correctly isn't easy. For example, it is no easy thing to accurately push the "time" and "distance" buttons while observing 
+the target pass between two points, at least one of which is almost sure to be far away from the officer. And, of course, doing this 
+accurately is even harder when the patrol car is moving.
+
+The most common three mistakes that can cause error in a VASCAR measurement are:
+
+    - The inability of the officer to accurately see when a distant car passes a distant point
+    - The officer's reaction time (how long it takes him or her to push the button when a car passes a marker), and
+    - The accuracy of the odometer on the officer's car.
+
+Generally, these errors become more pronounced and lead and lead to greater inaccuracies in the final speed estimate when the distance 
+between the two passing points is small. For example, there's less likely to be significant inaccuracy using VASCAR if the measured distance 
+is something like 1,500 feet than for a much shorter distance like 500 feet.
+
+Because VASCAR accuracy can depend so heavily on the officer's reaction time, it's crucial to know the distance over which the officer 
+clocked you. You may be able to obtain this information from the officer prior to the court date by requesting it through a process called "discovery."
+
+====================================================
+
+====================================================
+
+8 - Laser or "LIDAR" Speed Measurements
+
+Laser detectors are the most recent addition to the traffic officer's arsenal of speed-measuring devices.
+
+> How LIDAR Works >>
+
+Built to look and act like a hand-held radar gun, a laser detector uses a low-powered beam of laser light that bounces off the targeted
+vehicle and returns to a receiver in the unit. The unit then electronically calculates the speed of the targeted vehicle. 
+Laser detectors are supposedly more accurate than radar units.
+
+> Advantages of LIDAR >>
+
+One advantage for police officers of the laser gun is that the light beam is narrower than a radar beam, meaning that it can be more precisely aimed. 
+This is true even though laser detectors use three separate beams because the combined width of the three beams is still much narrower than a single 
+radar beam at the same distance. This technology reduces but does not eliminate the chance that the speed of a nearby car will be measured instead 
+of the speed of the car at which the operator aims the gun.
+
+> How LIDAR Fails >>
+
+Laser detectors measure distance (between the gun and the target car) using the speed of light and the time it takes the light, reflected off the 
+target vehicle, to return to the laser gun. The detector makes about 40 of these distance measurements over a third of a second, then divides the 
+light's round-trip distance by the time, to get the speed. This means to be accurate the officer must hold the combined beams on the same part of 
+the car during the test. While this is easier to do with radar because of its wide beam, it is tricky to do this with a narrow laser beam. 
+Also, it's impossible to be sure that the officer has been able to accomplish this feat because the officer can't see the beam.
+
+It's also possible (especially in heavy traffic) for one beam to hit the target car and another beam to hit a nearby car. The chances of this happening 
+increase with traffic density and the distance between the laser unit and the measured vehicle.
+
+====================================================
