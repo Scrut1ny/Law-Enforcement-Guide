@@ -43,10 +43,7 @@
 | Police WILL lie to you about almost anything (except laws & having a warrant) to get you to confess to something. During polygraph tests they’ll even lie to you about if you were telling the truth or not. |
 | Police might offer you a drink at their station or somewhere else to obtain your fingerprints/DNA. It’s their property. |
 | Police Can’t Demand You Reveal Your Phone Passcode and Then Tell a Jury You Refused - [Link](https://www.eff.org/deeplinks/2021/10/police-cant-demand-you-reveal-your-phone-passcode-and-then-tell-jury-you-refused) |
-| Recording / Audio Recording
-[First Amendment Right to Secretly Audio Record the Police](https://www.eff.org/deeplinks/2021/04/first-circuit-upholds-first-amendment-right-secretly-audio-record-police)
-[You Have a First Amendment Right to Record the Police](https://www.eff.org/deeplinks/2020/06/you-have-first-amendment-right-record-police)
-[First Amendment Protects Right to Record Police](https://www.eff.org/deeplinks/2019/05/eff-tenth-circuit-first-amendment-protects-right-record-police) |
+| Recording / Audio Recording - [First Amendment Right to Secretly Audio Record the Police](https://www.eff.org/deeplinks/2021/04/first-circuit-upholds-first-amendment-right-secretly-audio-record-police) - [You Have a First Amendment Right to Record the Police](https://www.eff.org/deeplinks/2020/06/you-have-first-amendment-right-record-police) - [First Amendment Protects Right to Record Police](https://www.eff.org/deeplinks/2019/05/eff-tenth-circuit-first-amendment-protects-right-record-police) |
 
 #### MISC
 | ``Instructions/Info`` | ``Links`` |
