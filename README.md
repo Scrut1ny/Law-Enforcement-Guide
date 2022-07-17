@@ -33,7 +33,7 @@
 | The officer pulls you over, but you don't know why. | Whats your reasonable articulable suspicion for pulling me over officer? |
 | The officer asks you non-required questions during the stop. | Plead/Invoke the 5th amendment and specify "I don't answer questions." |
 | The officer says they'll arrest you, *lie*, etc if you do not provide Identification. (Only reject if the officer doesn't have any reasonable articulable suspicion.) | Don't worry, it's a scare tactic police use to obtain your info. Plead/Invoke the 5th amendment, and don't cooperate with the officer. |
-| The officer says/asks to search your vehicle (*without any reasonable articulable suspicion*) | Simply tell the officer "No officer, I don't concent to a search." If the officer searches it anyway without any RAS that is called an illegal search that you may sue them for. |
+| The officer says/asks to search your vehicle (*without any reasonable articulable suspicion*) | Simply tell the officer "No officer, I don't concent to a search." If the officer searches it anyway without any RAS; that's called an illegal search that you may sue them for. |
 |  |  |
 
 ### Police Physical/Verbal Tactics
