@@ -105,4 +105,4 @@ Reasonable Articulable Suspicion
 | rdforum | [Link](https://www.rdforum.org/) |
 | Configurion for Uniden R7 | [Link](https://www.vortexradar.com/2019/04/how-to-set-up-configure-uniden-r7-radar-detector/) |
 | State Used Radar Bands | [Link](https://keepspeedincheck.com/police-radar-brands-used-by-state/) |
-| Constitutional Amendments | [Link](https://constitution.congress.gov/constitution/amendment-1/) |
+| Constitutional Amendments | [Link](https://constitution.congress.gov/browse/) |
