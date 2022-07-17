@@ -30,6 +30,8 @@
 ### Police Traffic Stop; *Step-by-Step* Instructions
 | ``What to expect`` | ``What to do/say`` |
 |-|-|
+| The officer comes up to your window. | Ask the officer "*What's your name & badge number*" |
+| The officer says "*Do you know why I pulled you over?*" | Inform the officer "*No*", DO NOT admit to anything! Anything you say can and will be used against you in a court of law. |
 | The officer pulls you over, but you don't know why. | Whats your reasonable articulable suspicion for pulling me over officer? |
 | The officer asks you non-required questions during the stop. | Plead/Invoke the 5th amendment and specify "*I don't answer questions.*" |
 | The officer says they'll arrest you, *lie*, etc if you do not provide Identification. (Only reject if the officer doesn't have any reasonable articulable suspicion.) | Don't worry, it's a scare tactic police use to obtain your info. Plead/Invoke the 4th & 5th amendment, and don't cooperate with the officer. |
