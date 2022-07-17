@@ -32,7 +32,7 @@
 |-|-|
 | The officer pulls you over, but you don't know why. | Whats your reasonable articulable suspicion for pulling me over officer? |
 | The officer asks you non-required questions during the stop. | Plead/Invoke the 5th amendment and specify "*I don't answer questions.*" |
-| The officer says they'll arrest you, *lie*, etc if you do not provide Identification. (Only reject if the officer doesn't have any reasonable articulable suspicion.) | Don't worry, it's a scare tactic police use to obtain your info. Plead/Invoke the 5th amendment, and don't cooperate with the officer. |
+| The officer says they'll arrest you, *lie*, etc if you do not provide Identification. (Only reject if the officer doesn't have any reasonable articulable suspicion.) | Don't worry, it's a scare tactic police use to obtain your info. Plead/Invoke the 4th & 5th amendment, and don't cooperate with the officer. |
 | The officer says/asks to search your vehicle (*without any reasonable articulable suspicion*) | Simply tell the officer "*No officer, I don't concent to a search.*" If the officer searches it anyway without any RAS; that's called an illegal search that you may sue them for. |
 |  |  |
 
@@ -67,6 +67,48 @@ Invoke
  
 Reasonable Articulable Suspicion
   - An objectively justifiable suspicion that is based on specific facts or circumstances and that justifies stopping and sometimes searching (as by frisking) a person thought to be involved in criminal activity at the time.
+
+### Constitutional Amendment Definitions
+| ``Constitutional Amendment`` | ``Definition`` |
+|-|-|
+| [First Amendment](https://constitution.congress.gov/constitution/amendment-1/) | Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances. |
+| [Second Amendment](https://constitution.congress.gov/constitution/amendment-2/) | A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed. |
+| [Third Amendment](https://constitution.congress.gov/constitution/amendment-3/) | No Soldier shall, in time of peace be quartered in any house, without the consent of the Owner, nor in time of war, but in a manner to be prescribed by law. |
+| [Fourth Amendment](https://constitution.congress.gov/constitution/amendment-4/) | The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized. |
+| [Fifth Amendment](https://constitution.congress.gov/constitution/amendment-5/) | No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury, except in cases arising in the land or naval forces, or in the Militia, when in actual service in time of War or public danger; nor shall any person be subject for the same offence to be twice put in jeopardy of life or limb; nor shall be compelled in any criminal case to be a witness against himself, nor be deprived of life, liberty, or property, without due process of law; nor shall private property be taken for public use, without just compensation. |
+| [Sixth Amendment](https://constitution.congress.gov/constitution/amendment-6/) | In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury of the State and district wherein the crime shall have been committed, which district shall have been previously ascertained by law, and to be informed of the nature and cause of the accusation; to be confronted with the witnesses against him; to have compulsory process for obtaining witnesses in his favor, and to have the Assistance of Counsel for his defence. |
+| [Seventh Amendment](https://constitution.congress.gov/constitution/amendment-7/) | In Suits at common law, where the value in controversy shall exceed twenty dollars, the right of trial by jury shall be preserved, and no fact tried by a jury, shall be otherwise re-examined in any Court of the United States, than according to the rules of the common law. |
+| [Eighth Amendment](https://constitution.congress.gov/constitution/amendment-8/) | Excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted. |
+| [Ninth Amendment](https://constitution.congress.gov/constitution/amendment-9/) | The enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people. |
+| [Tenth Amendment](https://constitution.congress.gov/constitution/amendment-10/) | The powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people. |
+| [Eleventh Amendment](https://constitution.congress.gov/constitution/amendment-11/) | The Judicial power of the United States shall not be construed to extend to any suit in law or equity, commenced or prosecuted against one of the United States by Citizens of another State, or by Citizens or Subjects of any Foreign State. |
+| [Twelfth Amendment](https://constitution.congress.gov/constitution/amendment-12/) | The Electors shall meet in their respective states and vote by ballot for President and Vice-President, one of whom, at least, shall not be an inhabitant of the same state with themselves; they shall name in their ballots the person voted for as President, and in distinct ballots the person voted for as Vice-President, and they shall make distinct lists of all persons voted for as President, and of all persons voted for as Vice-President, and of the number of votes for each, which lists they shall sign and certify, and transmit sealed to the seat of the government of the United States, directed to the President of the Senate;–the President of the Senate shall, in the presence of the Senate and House of Representatives, open all the certificates and the votes shall then be counted;–The person having the greatest number of votes for President, shall be the President, if such number be a majority of the whole number of Electors appointed; and if no person have such majority, then from the persons having the highest numbers not exceeding three on the list of those voted for as President, the House of Representatives shall choose immediately, by ballot, the President. But in choosing the President, the votes shall be taken by states, the representation from each state having one vote; a quorum for this purpose shall consist of a member or members from two-thirds of the states, and a majority of all the states shall be necessary to a choice. [And if the House of Representatives shall not choose a President whenever the right of choice shall devolve upon them, before the fourth day of March next following, then the Vice-President shall act as President, as in case of the death or other constitutional disability of the President.–]The person having the greatest number of votes as Vice-President, shall be the Vice-President, if such number be a majority of the whole number of Electors appointed, and if no person have a majority, then from the two highest numbers on the list, the Senate shall choose the Vice-President; a quorum for the purpose shall consist of two-thirds of the whole number of Senators, and a majority of the whole number shall be necessary to a choice. But no person constitutionally ineligible to the office of President shall be eligible to that of Vice-President of the United States. |
+| [Thirteenth Amendment](https://constitution.congress.gov/constitution/amendment-13/) |  Section 1 - Neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, shall exist within the United States, or any place subject to their jurisdiction. - Section 2 - Congress shall have power to enforce this article by appropriate legislation. |
+| [Fourteenth Amendment](https://constitution.congress.gov/constitution/amendment-14/) |  Section 1
+
+All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside. No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.
+
+Section 2
+
+Representatives shall be apportioned among the several States according to their respective numbers, counting the whole number of persons in each State, excluding Indians not taxed. But when the right to vote at any election for the choice of electors for President and Vice-President of the United States, Representatives in Congress, the Executive and Judicial officers of a State, or the members of the Legislature thereof, is denied to any of the male inhabitants of such State, being twenty-one years of age, and citizens of the United States, or in any way abridged, except for participation in rebellion, or other crime, the basis of representation therein shall be reduced in the proportion which the number of such male citizens shall bear to the whole number of male citizens twenty-one years of age in such State.
+
+Section 3
+
+No person shall be a Senator or Representative in Congress, or elector of President and Vice-President, or hold any office, civil or military, under the United States, or under any State, who, having previously taken an oath, as a member of Congress, or as an officer of the United States, or as a member of any State legislature, or as an executive or judicial officer of any State, to support the Constitution of the United States, shall have engaged in insurrection or rebellion against the same, or given aid or comfort to the enemies thereof. But Congress may by a vote of two-thirds of each House, remove such disability.
+
+Section 4
+
+The validity of the public debt of the United States, authorized by law, including debts incurred for payment of pensions and bounties for services in suppressing insurrection or rebellion, shall not be questioned. But neither the United States nor any State shall assume or pay any debt or obligation incurred in aid of insurrection or rebellion against the United States, or any claim for the loss or emancipation of any slave; but all such debts, obligations and claims shall be held illegal and void.
+
+Section 5
+
+The Congress shall have the power to enforce, by appropriate legislation, the provisions of this article. |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
 
 ### MISC
 | ``Instructions/Info`` | ``Links`` |
