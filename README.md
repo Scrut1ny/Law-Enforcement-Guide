@@ -30,6 +30,7 @@
 ### Police Traffic Stop Encounter; *Step-by-Step* Instructions
 | ``What to expect`` | ``What to do/say`` |
 |-|-|
+| The officer asks for ANYTHING (*other than ID and proof of insurence in a actual LEGAL stop where they DO have a valid reason*) | Tell the officer "*I want to consult an attorney before I answer that*" |
 | The officer comes up to your window. | Ask the officer "*What's your name & badge number*" - The officer HAS to provide you with this info by their Agency Policy. |
 | The officer says "*Do you know why I pulled you over?*" | Inform the officer "*No*", DO NOT admit to anything! Anything you say can and will be used against you in a court of law. |
 | The officer pulls you over, but you don't know why. | Ask the officer "*Whats your reasonable articulable suspicion for the stop?*" |
