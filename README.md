@@ -5,10 +5,10 @@
 #### Equipment to Avoid Police
 | ``Radar Detectors`` | ``Links`` | ``Specs/Includes`` |
 |-|-|-|
-| #1 Radenso DS1 | [Link](https://amzn.to/3QvCYzl) | * |
-| #2 Uniden R8 | [Link](https://amzn.to/3MWIQ1K) | * |
-| #3 Uniden R7 | [Link](https://amzn.to/3LXBKtC) | * |
-| ``Radio Communication`` | ``Links`` |  |
+| #1 Uniden R8 | [Link](https://amzn.to/3MWIQ1K) | *Everything* |
+| #2 Uniden R7 | [Link](https://amzn.to/3LXBKtC) | *Everything* |
+| #3 Escort Redline360C | [Link](https://www.amazon.com/Escort-Redline360C-Laser-Detector-Built/dp/B08B46HBCT) | *Everything* |
+| ``Radio Communication`` | ``Links`` |
 | BAOFENG BF-F8H | [Link](https://amzn.to/3EbIm52) | Communicate with friends, listen into the radio, or best listen into police activity only in a radius around you |
 | Uniden-HomePatrol-2 | [Link](https://www.amazon.com/Uniden-HomePatrol-2-Touchscreen-TrunkTracker-Emergency/dp/B00JJY6S72) | This model lets you quickly hear communications systems used by Public Safety, Police, Fire, Ambulance, Aircraft, Military, Weather, and more. |
 | ``Apps`` | ``Links`` |  |
@@ -29,6 +29,17 @@
 
 #### How to beat a speeding ticket in traffic court.
 
+#### Police stop step-by-step instructions
+| ``What to expect`` | ``What to do/say`` |
+|-|-|
+
+| An officer pulls you over, but you don't know why. | Whats your reasonable articulable suspicion for pulling me over officer? |
+| An officer asks you non-required questions during the stop | Plead/Invoke the 5th amendment and specify "I don't answer questions." |
+| The officer says he'll arrest you, lie, etc if you do not provide Identification (Only reject if the officer doesn't have any reasonable articulable suspicion) | Simply, don't worry. It's a scare tactic police use to obtain your info. Plead/Invoke the 5th amendment, and don't cooperate with the officer. |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 #### Police Physical/Verbal Tactics
 | ``Pulled Over Help`` |
@@ -45,9 +56,24 @@
 | Police might offer you a drink at their station or somewhere else to obtain your fingerprints/DNA. It’s their property. |
 | Police Can’t Demand You Reveal Your Phone Passcode and Then Tell a Jury You Refused - [Link](https://www.eff.org/deeplinks/2021/10/police-cant-demand-you-reveal-your-phone-passcode-and-then-tell-jury-you-refused) |
 
+#### Definitions
+Plead
+  - To appeal earnestly; beg.
+  - To offer reasons for or against something; argue earnestly.
+  - To provide an argument to appeal.
+
+Invoke
+  - To call on (a higher power) for assistance, support, or inspiration.
+  - To appeal to or cite in support or justification.
+  - To call for earnestly; solicit.
+ 
+Reasonable Articulable Suspicion
+  - An objectively justifiable suspicion that is based on specific facts or circumstances and that justifies stopping and sometimes searching (as by frisking) a person thought to be involved in criminal activity at the time.
+
 #### MISC
 | ``Instructions/Info`` | ``Links`` |
 |-|-|
 | rdforum | [Link](https://www.rdforum.org/) |
 | Configurion for Uniden R7 | [Link](https://www.vortexradar.com/2019/04/how-to-set-up-configure-uniden-r7-radar-detector/) |
 | State Used Radar Bands | [Link](https://keepspeedincheck.com/police-radar-brands-used-by-state/) |
+| Constitutional Amendments | [Link](https://constitution.congress.gov/constitution/amendment-1/) |
