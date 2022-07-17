@@ -27,9 +27,6 @@
 | ``VASCAR`` | This is the manual form of speed detection by police. An officer will stand by a stationary object with a stopwatch. When the vehicle passes that object he will start the stopwatch. When the vehicle passes another predetermined stationary object he will stop the stopwatch. To determine the vehicle’s speed the officer divides the distance by time. VASCAR is unique because it can be used from a moving or stationary police car. | ``States that use VASCAR: Florida, Georgia, Kentucky, Louisiana, Mississippi, North Carolina, South Carolina, Delaware, Maine, Maryland, Massachusetts, New Jersey, New York, Pennsylvania, Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Nebraska, Ohio, Wisconsin, Arizona, New Mexico, Oklahoma, Colorado, Hawaii, Idaho, Oregon, Utah, Washington.``|
 | ``Automated`` | Automated speed detectors are permanently installed on the side of the road to monitor traffic. These types of cameras are often used by news channels for traffic updates. The camera can also be set up to determine the traffic’s speed on the road. Often times the system is connected to a plate recognition system to assign tickets automatically. | ``States that use Automated: Florida, Georgia, North Carolina, Tennessee, Virginia, New Jersey, New York, Pennsylvania, Rhode Island, Vermont, Illinois, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Arizona, New Mexico, Oklahoma, Texas, California, Colorado, Hawaii, Idaho, Oregon, Wyoming.``|
 
-### How to beat a speeding ticket in traffic court.
-[My Personal Notes Link](https://github.com/Scrut1ny/Police-Scrutiny/blob/main/Speeding%20Ticket%20Defences.txt)
-
 ### Police Traffic Stop; *Step-by-Step* Instructions
 | ``What to expect`` | ``What to do/say`` |
 |-|-|
@@ -52,6 +49,9 @@
 | Police WILL lie to you about almost anything (except laws & having a warrant) to get you to confess to something. During polygraph tests they’ll even lie to you about if you were telling the truth or not. |
 | Police might offer you a drink at their station or somewhere else to obtain your fingerprints/DNA. It’s their property. |
 | Police Can’t Demand You Reveal Your Phone Passcode and Then Tell a Jury You Refused - [Link](https://www.eff.org/deeplinks/2021/10/police-cant-demand-you-reveal-your-phone-passcode-and-then-tell-jury-you-refused) |
+
+## How to beat a speeding ticket in traffic court.
+[My Personal Notes Link](https://github.com/Scrut1ny/Police-Scrutiny/blob/main/Speeding%20Ticket%20Defences.txt)
 
 ### Definitions
 Plead
