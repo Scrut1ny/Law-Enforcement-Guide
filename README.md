@@ -28,6 +28,7 @@
 | ``Automated`` | Automated speed detectors are permanently installed on the side of the road to monitor traffic. These types of cameras are often used by news channels for traffic updates. The camera can also be set up to determine the traffic’s speed on the road. Often times the system is connected to a plate recognition system to assign tickets automatically. | ``States that use Automated: Florida, Georgia, North Carolina, Tennessee, Virginia, New Jersey, New York, Pennsylvania, Rhode Island, Vermont, Illinois, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Arizona, New Mexico, Oklahoma, Texas, California, Colorado, Hawaii, Idaho, Oregon, Wyoming.``|
 
 ### How to beat a speeding ticket in traffic court.
+[My Personal Notes Link](https://github.com/Scrut1ny/Police-Scrutiny/blob/main/Speeding%20Ticket%20Defences.txt)
 
 ### Police stop step-by-step instructions
 | ``What to expect`` | ``What to do/say`` |
