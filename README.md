@@ -30,7 +30,7 @@
 ### How to beat a speeding ticket in traffic court.
 [My Personal Notes Link](https://github.com/Scrut1ny/Police-Scrutiny/blob/main/Speeding%20Ticket%20Defences.txt)
 
-### Police stop step-by-step instructions
+### Police Traffic Stop *Step-by-Step* Instructions
 | ``What to expect`` | ``What to do/say`` |
 |-|-|
 | The officer pulls you over, but you don't know why. | Whats your reasonable articulable suspicion for pulling me over officer? |
