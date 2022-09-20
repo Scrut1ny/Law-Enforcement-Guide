@@ -9,8 +9,8 @@
 | #2 Uniden R7 | [Link](https://www.amazon.com/dp/B07PJ2ZX6R) | *Everything* |
 | #3 Escort Redline360C | [Link](https://www.amazon.com/dp/B08B46HBCT) | *Everything* |
 | ``Radio Communication`` | ``Links`` |
-| BAOFENG BF-F8H | [Link](https://amzn.to/3EbIm52) | Communicate with friends, listen into the radio, or best listen into police activity only in a radius around you |
-| Uniden-HomePatrol-2 | [Link](https://www.amazon.com/Uniden-HomePatrol-2-Touchscreen-TrunkTracker-Emergency/dp/B00JJY6S72) | This model lets you quickly hear communications systems used by Public Safety, Police, Fire, Ambulance, Aircraft, Military, Weather, and more. |
+| BAOFENG BF-F8H | [Link](https://www.amazon.com/dp/B00MAULSOK) | Communicate with friends, listen into the radio, or best listen into police activity only in a radius around you |
+| Uniden-HomePatrol-2 | [Link](https://www.amazon.com/dp/B00JJY6S72) | This model lets you quickly hear communications systems used by Public Safety, Police, Fire, Ambulance, Aircraft, Military, Weather, and more. |
 | ``Apps`` | ``Links`` |  |
 | Police Scanner Radio & Fire | [Link](https://apps.apple.com/us/app/police-scanner-radio-fire/id498405045) | Listen into all EMS, Firefighter, & police activity in your county |
 | Waze Navigation & Live Traffic | [Link](https://apps.apple.com/us/app/waze-navigation-live-traffic/id323229106) | Find your way around the states but also be alert by hazards and especially police |
