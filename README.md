@@ -5,9 +5,10 @@
 ### Equipment to Avoid Police
 | ``Radar Detectors`` | ``Links`` | ``Specs/Includes`` |
 |-|-|-|
-| #1 Uniden R8 | [Link](https://www.amazon.com/dp/B09TWX4KFY) | *Everything* |
-| #2 Uniden R7 | [Link](https://www.amazon.com/dp/B07PJ2ZX6R) | *Everything* |
-| #3 Escort Redline360C | [Link](https://www.amazon.com/dp/B08B46HBCT) | *Everything* |
+| #1 Uniden R9 | Coming Soon... | *Everything* + Laser Jamming! |
+| #2 Uniden R8 | [Link](https://www.amazon.com/dp/B09TWX4KFY) | *Everything* |
+| #3 Uniden R7 | [Link](https://www.amazon.com/dp/B07PJ2ZX6R) | *Everything* |
+| #4 Escort Redline360C | [Link](https://www.amazon.com/dp/B08B46HBCT) | *Everything* |
 | ``Radio Communication`` | ``Links`` |
 | BAOFENG BF-F8H | [Link](https://www.amazon.com/dp/B00MAULSOK) | Communicate with friends, listen into the radio, or best listen into police activity only in a radius around you |
 | Uniden-HomePatrol-2 | [Link](https://www.amazon.com/dp/B00JJY6S72) | This model lets you quickly hear communications systems used by Public Safety, Police, Fire, Ambulance, Aircraft, Military, Weather, and more. |
