@@ -5,7 +5,7 @@
 ### Equipment to Avoid Police
 | ``Microwave Detector`` | ``Links`` | ``Specs/Includes`` |
 |-|-|-|
-| #Sherlock: The Police Detector | [Link](https://thepolicedetector.com/index.html) | Microwave Imaging |
+| #1 Sherlock: The Police Detector | [Link](https://thepolicedetector.com/index.html) | Microwave Imaging |
 | ``Radar Detectors`` | ``Links`` | ``Specs/Includes`` |
 | #1 Uniden R9 | Coming Soon... | *Everything* + Laser Jamming! |
 | #2 Uniden R8 | [Link](https://www.amazon.com/dp/B09TWX4KFY) | *Everything* |
