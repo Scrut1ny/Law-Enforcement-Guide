@@ -3,7 +3,7 @@
 # Police-Scrutiny
 
 ### Equipment to Avoid Police
-| ``Microwave Imaging`` | ``Links`` | ``Specs/Includes`` |
+| ``Microwave Detector`` | ``Links`` | ``Specs/Includes`` |
 |-|-|-|
 | #Sherlock: The Police Detector | [Link](https://thepolicedetector.com/index.html) | Microwave Imaging |
 | ``Radar Detectors`` | ``Links`` | ``Specs/Includes`` |
