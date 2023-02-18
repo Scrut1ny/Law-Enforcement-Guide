@@ -7,7 +7,6 @@
 |-|-|-|
 | #Sherlock: The Police Detector | [Link](https://thepolicedetector.com/index.html) | Microwave Imaging |
 | ``Radar Detectors`` | ``Links`` | ``Specs/Includes`` |
-|-|-|-|
 | #1 Uniden R9 | Coming Soon... | *Everything* + Laser Jamming! |
 | #2 Uniden R8 | [Link](https://www.amazon.com/dp/B09TWX4KFY) | *Everything* |
 | #3 Uniden R7 | [Link](https://www.amazon.com/dp/B07PJ2ZX6R) | *Everything* |
