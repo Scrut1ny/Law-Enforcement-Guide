@@ -15,8 +15,8 @@
 | BAOFENG BF-F8H | [Link](https://www.amazon.com/dp/B00MAULSOK) | Communicate with friends, listen into the radio, or best listen into police activity only in a radius around you |
 | Uniden-HomePatrol-2 | [Link](https://www.amazon.com/dp/B00JJY6S72) | This model lets you quickly hear communications systems used by Public Safety, Police, Fire, Ambulance, Aircraft, Military, Weather, and more. |
 | ``Apps`` | ``Links`` |  |
-| Police Scanner Radio & Fire | [IOS Link](https://apps.apple.com/us/app/police-scanner-radio-fire/id498405045) | [Android Link](https://play.google.com/store/apps/details?id=com.scannerradio) | Listen into all EMS, Firefighter, & police activity in your county |
-| Waze Navigation & Live Traffic | [IOS Link](https://apps.apple.com/us/app/waze-navigation-live-traffic/id323229106) | [Android Link](https://play.google.com/store/apps/details?id=com.waze) | Find your way around the states but also be alert by hazards and especially police |
+| Police Scanner Radio & Fire | [IOS Link](https://apps.apple.com/us/app/police-scanner-radio-fire/id498405045) - [Android Link](https://play.google.com/store/apps/details?id=com.scannerradio) | Listen into all EMS, Firefighter, & police activity in your county |
+| Waze Navigation & Live Traffic | [IOS Link](https://apps.apple.com/us/app/waze-navigation-live-traffic/id323229106) - [Android Link](https://play.google.com/store/apps/details?id=com.waze) | Find your way around the states but also be alert by hazards and especially police |
 
 #### Police Equipment
 | ``Bands/other`` | ``Info`` | ``States`` |
