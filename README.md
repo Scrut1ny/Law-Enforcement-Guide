@@ -4,7 +4,7 @@
 | ``Microwave Detector`` | ``Links`` | ``Specs/Includes`` |
 |-|-|-|
 | #1 Sherlock: The Police Detector | [Link](https://thepolicedetector.com/index.html) | Microwave Imaging |
-| ``Radar Detectors`` | ``Links`` | ``Specs/Includes`` |
+| ``Radar Detectors`` | ``Links`` |
 | #1 Uniden R9 | Coming Soon... | *Everything* + Laser Jamming! |
 | #2 Uniden R8 | [Link](https://www.amazon.com/dp/B09TWX4KFY) | *Everything* |
 | #3 Uniden R7 | [Link](https://www.amazon.com/dp/B07PJ2ZX6R) | *Everything* |
@@ -17,7 +17,7 @@
 | ``Apps`` | ``Links`` |  |
 | Police Scanner Radio & Fire | [IOS Link](https://apps.apple.com/us/app/police-scanner-radio-fire/id498405045) - [Android Link](https://play.google.com/store/apps/details?id=com.scannerradio) | Listen into all EMS, Firefighter, & police activity in your county |
 | Waze Navigation & Live Traffic | [IOS Link](https://apps.apple.com/us/app/waze-navigation-live-traffic/id323229106) - [Android Link](https://play.google.com/store/apps/details?id=com.waze) | Find your way around the states but also be alert by hazards and especially police |
-| ``Websites`` | ```Links``` |
+| ``Websites`` | ``Links`` |
 | Flightradar24 | [Link](https://www.flightradar24.com/) |
 | RadarBox | [Link](https://www.radarbox.com/) |
 | adsbexchange | [Link](https://globe.adsbexchange.com/) |
