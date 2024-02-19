@@ -1,5 +1,9 @@
 ![hm](https://user-images.githubusercontent.com/53458032/174433857-5cd186d2-171e-4bd7-a182-42c3cd04a659.jpg)
 
+### Websites
+* [Arrests](https://arrests.org/)
+  * [AI Face Search](https://facesearch.arrests.org/)
+
 ### Equipment to Avoid Police
 | ``Microwave Detector`` | ``Links`` | ``Specs/Includes`` |
 |-|-|-|
@@ -22,7 +26,7 @@
 | RadarBox | [Link](https://www.radarbox.com/) |
 | adsbexchange | [Link](https://globe.adsbexchange.com/) |
 
-#### Police Equipment
+### Police Equipment
 | ``Bands/other`` | ``Info`` | ``States`` |
 |-|-|-|
 | ``X Band`` | X band (around 10.5 GHz) is the oldest technology and least common. With its huge antennas, X band has been phased out of most of the country, except for Ohio, New Jersey, and a few rural places across the country. Since you’ll get false alerts from some shopping center door openers, most people now shut off X band detection altogether. | ``States that use X-Band: Alabama, Arkansas, Kentucky, Louisiana, Mississippi, South Carolina, Tennessee, Virginia. Connecticut, Maryland, New Jersey, New York, Illinois, Indiana, Iowa, Kansas, Minnesota, Missouri, Ohio, South Dakota, New Mexico, Hawaii, Oregon, Texas, Utah, Washington, Wyoming.`` |
