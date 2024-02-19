@@ -1,5 +1,3 @@
-![hm](https://user-images.githubusercontent.com/53458032/174433857-5cd186d2-171e-4bd7-a182-42c3cd04a659.jpg)
-
 ### Websites
 * [Arrests](https://arrests.org/)
   * [AI Face Search](https://facesearch.arrests.org/)
