@@ -89,36 +89,39 @@ Invoke
 Reasonable Articulable Suspicion
   - An objectively justifiable suspicion that is based on specific facts or circumstances and that justifies stopping and sometimes searching (as by frisking) a person thought to be involved in criminal activity at the time.
 
-## Constitutional Amendment Definitions
-| ``Constitutional Amendment`` | ``Definition`` |
-|-|-|
-| [First Amendment](https://constitution.congress.gov/constitution/amendment-1/) | Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances. |
-| [Second Amendment](https://constitution.congress.gov/constitution/amendment-2/) | A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed. |
-| [Third Amendment](https://constitution.congress.gov/constitution/amendment-3/) | No Soldier shall, in time of peace be quartered in any house, without the consent of the Owner, nor in time of war, but in a manner to be prescribed by law. |
-| [Fourth Amendment](https://constitution.congress.gov/constitution/amendment-4/) | The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized. |
-| [Fifth Amendment](https://constitution.congress.gov/constitution/amendment-5/) | No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury, except in cases arising in the land or naval forces, or in the Militia, when in actual service in time of War or public danger; nor shall any person be subject for the same offence to be twice put in jeopardy of life or limb; nor shall be compelled in any criminal case to be a witness against himself, nor be deprived of life, liberty, or property, without due process of law; nor shall private property be taken for public use, without just compensation. |
-| [Sixth Amendment](https://constitution.congress.gov/constitution/amendment-6/) | In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury of the State and district wherein the crime shall have been committed, which district shall have been previously ascertained by law, and to be informed of the nature and cause of the accusation; to be confronted with the witnesses against him; to have compulsory process for obtaining witnesses in his favor, and to have the Assistance of Counsel for his defence. |
-| [Seventh Amendment](https://constitution.congress.gov/constitution/amendment-7/) | In Suits at common law, where the value in controversy shall exceed twenty dollars, the right of trial by jury shall be preserved, and no fact tried by a jury, shall be otherwise re-examined in any Court of the United States, than according to the rules of the common law. |
-| [Eighth Amendment](https://constitution.congress.gov/constitution/amendment-8/) | Excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted. |
-| [Ninth Amendment](https://constitution.congress.gov/constitution/amendment-9/) | The enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people. |
-| [Tenth Amendment](https://constitution.congress.gov/constitution/amendment-10/) | The powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people. |
-| [Eleventh Amendment](https://constitution.congress.gov/constitution/amendment-11/) | The Judicial power of the United States shall not be construed to extend to any suit in law or equity, commenced or prosecuted against one of the United States by Citizens of another State, or by Citizens or Subjects of any Foreign State. |
-| [Twelfth Amendment](https://constitution.congress.gov/constitution/amendment-12/) | <-- Visit Link |
-| [Thirteenth Amendment](https://constitution.congress.gov/constitution/amendment-13/) | Section 1 - Neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, shall exist within the United States, or any place subject to their jurisdiction. - Section 2 - Congress shall have power to enforce this article by appropriate legislation. |
-| [Fourteenth Amendment](https://constitution.congress.gov/constitution/amendment-14/) | <-- Visit Link |
-| [Fifteenth Amendment](https://constitution.congress.gov/constitution/amendment-15/) | Section 1 - The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, color, or previous condition of servitude– - Section 2 - The Congress shall have the power to enforce this article by appropriate legislation. |
-| [Sixteenth Amendment](https://constitution.congress.gov/constitution/amendment-16/) | The Congress shall have power to lay and collect taxes on incomes, from whatever source derived, without apportionment among the several States, and without regard to any census or enumeration. |
-| [Seventeenth Amendment](https://constitution.congress.gov/constitution/amendment-17/) | <-- Visit Link |
-| [Eighteenth Amendment](https://constitution.congress.gov/constitution/amendment-18/) | <-- Visit Link |
-| [Nineteenth Amendment](https://constitution.congress.gov/constitution/amendment-19/) | The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of sex. Congress shall have power to enforce this article by appropriate legislation. |
-| [Twentieth Amendment](https://constitution.congress.gov/constitution/amendment-20/) | <-- Visit Link |
-| [Twenty-First Amendment](https://constitution.congress.gov/constitution/amendment-21/) | <-- Visit Link |
-| [Twenty-Second Amendment](https://constitution.congress.gov/constitution/amendment-22/) | <-- Visit Link |
-| [Twenty-Third Amendment](https://constitution.congress.gov/constitution/amendment-23/) | <-- Visit Link |
-| [Twenty-Fourth Amendment](https://constitution.congress.gov/constitution/amendment-24/) | <-- Visit Link |
-| [Twenty-Fifth Amendment](https://constitution.congress.gov/constitution/amendment-25/) | <-- Visit Link |
-| [Twenty-Sixth Amendment](https://constitution.congress.gov/constitution/amendment-26/) |  Section 1 - The right of citizens of the United States, who are eighteen years of age or older, to vote shall not be denied or abridged by the United States or by any State on account of age. - Section 2 - The Congress shall have power to enforce this article by appropriate legislation. |
-| [Twenty-Seventh Amendment](https://constitution.congress.gov/constitution/amendment-27/) | No law, varying the compensation for the services of the Senators and Representatives, shall take effect, until an election of Representatives shall have intervened. |
+<details>
+<summary>Constitutional Amendments</summary>
+
+- [First Amendment](https://constitution.congress.gov/constitution/amendment-1/)
+- [Second Amendment](https://constitution.congress.gov/constitution/amendment-2/)
+- [Third Amendment](https://constitution.congress.gov/constitution/amendment-3/)
+- [Fourth Amendment](https://constitution.congress.gov/constitution/amendment-4/)
+- [Fifth Amendment](https://constitution.congress.gov/constitution/amendment-5/)
+- [Sixth Amendment](https://constitution.congress.gov/constitution/amendment-6/)
+- [Seventh Amendment](https://constitution.congress.gov/constitution/amendment-7/)
+- [Eighth Amendment](https://constitution.congress.gov/constitution/amendment-8/)
+- [Ninth Amendment](https://constitution.congress.gov/constitution/amendment-9/)
+- [Tenth Amendment](https://constitution.congress.gov/constitution/amendment-10/)
+- [Eleventh Amendment](https://constitution.congress.gov/constitution/amendment-11/)
+- [Twelfth Amendment](https://constitution.congress.gov/constitution/amendment-12/)
+- [Thirteenth Amendment](https://constitution.congress.gov/constitution/amendment-13/)
+- [Fourteenth Amendment](https://constitution.congress.gov/constitution/amendment-14/)
+- [Fifteenth Amendment](https://constitution.congress.gov/constitution/amendment-15/)
+- [Sixteenth Amendment](https://constitution.congress.gov/constitution/amendment-16/)
+- [Seventeenth Amendment](https://constitution.congress.gov/constitution/amendment-17/)
+- [Eighteenth Amendment](https://constitution.congress.gov/constitution/amendment-18/)
+- [Nineteenth Amendment](https://constitution.congress.gov/constitution/amendment-19/)
+- [Twentieth Amendment](https://constitution.congress.gov/constitution/amendment-20/)
+- [Twenty-First Amendment](https://constitution.congress.gov/constitution/amendment-21/)
+- [Twenty-Second Amendment](https://constitution.congress.gov/constitution/amendment-22/)
+- [Twenty-Third Amendment](https://constitution.congress.gov/constitution/amendment-23/)
+- [Twenty-Fourth Amendment](https://constitution.congress.gov/constitution/amendment-24/)
+- [Twenty-Fifth Amendment](https://constitution.congress.gov/constitution/amendment-25/)
+- [Twenty-Sixth Amendment](https://constitution.congress.gov/constitution/amendment-26/)
+- [Twenty-Seventh Amendment](https://constitution.congress.gov/constitution/amendment-27/)
+
+</details>
+
 
 ## MISC
 | ``Instructions/Info`` | ``Links`` |
