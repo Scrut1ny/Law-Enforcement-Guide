@@ -1,8 +1,8 @@
-### Websites
+## Websites
 * [Arrests](https://arrests.org/)
   * [AI Face Search](https://facesearch.arrests.org/)
 
-### Equipment to Avoid Police
+## Equipment to Avoid Police
 | ``Microwave Detector`` | ``Links`` | ``Specs/Includes`` |
 |-|-|-|
 | #1 Sherlock: The Police Detector | [Link](https://thepolicedetector.com/index.html) | Microwave Imaging |
@@ -40,7 +40,7 @@
 | **VASCAR** | - | Manual speed detection from moving or stationary positions. | Several states |
 | **Automated** | - | Fixed detectors for traffic monitoring and automatic ticketing. | Various states |
 
-### Police Traffic Stop Encounter; *Step-by-Step* Instructions
+## Police Traffic Stop Encounter; *Step-by-Step* Instructions
 | ``What to expect`` | ``What to do/say`` |
 |-|-|
 | The officer asks for ANYTHING (*other than ID and proof of insurence in a actual LEGAL stop where they DO have a valid reason*) | Tell the officer "*I want to consult an attorney before I answer that*" |
@@ -52,7 +52,7 @@
 | The officer asks to search your vehicle (*without any reasonable articulable suspicion*) | Simply tell the officer "*No officer, I don't concent to a search.*" If the officer searches it anyway without any RAS; that's called an illegal search that you may sue them for. |
 | The officer asks "*Do you have any weapons or anything illegal in your car?*" you respond with "*no*", they then follow up with that question with another and ask "*Do you mind if we take a look?*" | This is a trick question police use to obtain consent to search your vehicle; respond with "*Officer I do mind*" or "*Officer I don't concent to a search*". |
 
-### Police Physical/Verbal Tactics
+## Police Physical/Verbal Tactics
 | ``Pulled Over Help`` |
 |-|
 | #1 Be as respectful and cooperative as possible BUT still within YOUR LEGAL RIGHTS. |
@@ -84,7 +84,7 @@ Invoke
 Reasonable Articulable Suspicion
   - An objectively justifiable suspicion that is based on specific facts or circumstances and that justifies stopping and sometimes searching (as by frisking) a person thought to be involved in criminal activity at the time.
 
-### Constitutional Amendment Definitions
+## Constitutional Amendment Definitions
 | ``Constitutional Amendment`` | ``Definition`` |
 |-|-|
 | [First Amendment](https://constitution.congress.gov/constitution/amendment-1/) | Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances. |
@@ -115,7 +115,7 @@ Reasonable Articulable Suspicion
 | [Twenty-Sixth Amendment](https://constitution.congress.gov/constitution/amendment-26/) |  Section 1 - The right of citizens of the United States, who are eighteen years of age or older, to vote shall not be denied or abridged by the United States or by any State on account of age. - Section 2 - The Congress shall have power to enforce this article by appropriate legislation. |
 | [Twenty-Seventh Amendment](https://constitution.congress.gov/constitution/amendment-27/) | No law, varying the compensation for the services of the Senators and Representatives, shall take effect, until an election of Representatives shall have intervened. |
 
-### MISC
+## MISC
 | ``Instructions/Info`` | ``Links`` |
 |-|-|
 | rdforum | [Link](https://www.rdforum.org/) |
