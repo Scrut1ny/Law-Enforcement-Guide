@@ -108,7 +108,7 @@
 
 ## Constitutional Amendments
 <details>
-<summary>Amendment Links</summary>
+<summary>Expand...</summary>
 
 - [1st Amendment](https://constitution.congress.gov/constitution/amendment-1/)
 - [2nd Amendment](https://constitution.congress.gov/constitution/amendment-2/)
