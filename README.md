@@ -2,7 +2,11 @@
 * [Arrests](https://arrests.org/)
   * [AI Face Search](https://facesearch.arrests.org/)
 
+
 ## Equipment to Avoid Police
+<details>
+<summary>Expand...</summary>
+
 | ``Microwave Detector`` | ``Links`` | ``Specs/Includes`` |
 |-|-|-|
 | #1 Sherlock: The Police Detector | [Link](https://thepolicedetector.com/index.html) | Microwave Imaging |
@@ -24,7 +28,13 @@
 | RadarBox | [Link](https://www.radarbox.com/) |
 | adsbexchange | [Link](https://globe.adsbexchange.com/) |
 
+</details>
+
+
 ## Radar Bands & Technologies
+<details>
+<summary>Expand...</summary>
+
 | Technology | Frequency | Details | Active States |
 |------------|-----------|---------|---------------|
 | **X Band** | Around 10.5 GHz | Older technology, mostly phased out due to false alerts. | Ohio, New Jersey, select rural areas |
@@ -40,7 +50,13 @@
 | **VASCAR** | - | Manual speed detection from moving or stationary positions. | Several states |
 | **Automated** | - | Fixed detectors for traffic monitoring and automatic ticketing. | Various states |
 
+</details>
+
+
 ## Comprehensive Guide to Police Traffic Stop Encounters
+<details>
+<summary>Expand...</summary>
+
 | **What to Expect** | **What to Do/Say** |
 |--------------------|--------------------|
 | The officer asks for anything other than ID and proof of insurance in a legal stop where they have a valid reason. | "I want to consult an attorney before I answer that." |
@@ -57,7 +73,13 @@
 | Encounter escalates without clear reason. | Remain calm. Say, "I am not resisting, but I do not consent to any search." Document the encounter if possible. |
 | You're detained or arrested. | Clearly state, "I am invoking my right to remain silent and wish to speak with an attorney." Do not resist arrest. |
 
+</details>
+
+
 ## Police Physical/Verbal Tactics
+<details>
+<summary>Expand...</summary>
+
 | ``Pulled Over Help`` |
 |-|
 | #1 Be as respectful and cooperative as possible BUT still within YOUR LEGAL RIGHTS. |
@@ -72,22 +94,16 @@
 | Police might offer you a drink at their station or somewhere else to obtain your fingerprints/DNA. It’s their property. |
 | Police Can’t Demand You Reveal Your Phone Passcode and Then Tell a Jury You Refused - [Link](https://www.eff.org/deeplinks/2021/10/police-cant-demand-you-reveal-your-phone-passcode-and-then-tell-jury-you-refused) |
 
+</details>
+
+
 ## How to beat a speeding ticket in traffic court.
-[My Personal Notes Link](https://github.com/Scrut1ny/Police-Scrutiny/blob/main/Speeding%20Ticket%20Defences.txt)
+<details>
+<summary>Expand...</summary>
 
-### Definitions
-Plead
-  - To appeal earnestly; beg.
-  - To offer reasons for or against something; argue earnestly.
-  - To provide an argument to appeal.
+- [My Personal Notes Link](https://github.com/Scrut1ny/Police-Scrutiny/blob/main/Speeding%20Ticket%20Defences.txt)
 
-Invoke
-  - To call on (a higher power) for assistance, support, or inspiration.
-  - To appeal to or cite in support or justification.
-  - To call for earnestly; solicit.
- 
-Reasonable Articulable Suspicion
-  - An objectively justifiable suspicion that is based on specific facts or circumstances and that justifies stopping and sometimes searching (as by frisking) a person thought to be involved in criminal activity at the time.
+</details>
 
 
 ## Constitutional Amendments
