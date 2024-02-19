@@ -40,8 +40,7 @@
 | **VASCAR** | - | Manual speed detection from moving or stationary positions. | Several states |
 | **Automated** | - | Fixed detectors for traffic monitoring and automatic ticketing. | Various states |
 
-# Comprehensive Guide to Police Traffic Stop Encounters
-## Complete Step-by-Step Guide
+##Comprehensive Guide to Police Traffic Stop Encounters
 | **What to Expect** | **What to Do/Say** |
 |--------------------|--------------------|
 | The officer asks for anything other than ID and proof of insurance in a legal stop where they have a valid reason. | "I want to consult an attorney before I answer that." |
