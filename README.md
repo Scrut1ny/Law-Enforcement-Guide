@@ -89,36 +89,38 @@ Invoke
 Reasonable Articulable Suspicion
   - An objectively justifiable suspicion that is based on specific facts or circumstances and that justifies stopping and sometimes searching (as by frisking) a person thought to be involved in criminal activity at the time.
 
-<details>
-<summary>Constitutional Amendments</summary>
 
-- [First Amendment](https://constitution.congress.gov/constitution/amendment-1/)
-- [Second Amendment](https://constitution.congress.gov/constitution/amendment-2/)
-- [Third Amendment](https://constitution.congress.gov/constitution/amendment-3/)
-- [Fourth Amendment](https://constitution.congress.gov/constitution/amendment-4/)
-- [Fifth Amendment](https://constitution.congress.gov/constitution/amendment-5/)
-- [Sixth Amendment](https://constitution.congress.gov/constitution/amendment-6/)
-- [Seventh Amendment](https://constitution.congress.gov/constitution/amendment-7/)
-- [Eighth Amendment](https://constitution.congress.gov/constitution/amendment-8/)
-- [Ninth Amendment](https://constitution.congress.gov/constitution/amendment-9/)
-- [Tenth Amendment](https://constitution.congress.gov/constitution/amendment-10/)
-- [Eleventh Amendment](https://constitution.congress.gov/constitution/amendment-11/)
-- [Twelfth Amendment](https://constitution.congress.gov/constitution/amendment-12/)
-- [Thirteenth Amendment](https://constitution.congress.gov/constitution/amendment-13/)
-- [Fourteenth Amendment](https://constitution.congress.gov/constitution/amendment-14/)
-- [Fifteenth Amendment](https://constitution.congress.gov/constitution/amendment-15/)
-- [Sixteenth Amendment](https://constitution.congress.gov/constitution/amendment-16/)
-- [Seventeenth Amendment](https://constitution.congress.gov/constitution/amendment-17/)
-- [Eighteenth Amendment](https://constitution.congress.gov/constitution/amendment-18/)
-- [Nineteenth Amendment](https://constitution.congress.gov/constitution/amendment-19/)
-- [Twentieth Amendment](https://constitution.congress.gov/constitution/amendment-20/)
-- [Twenty-First Amendment](https://constitution.congress.gov/constitution/amendment-21/)
-- [Twenty-Second Amendment](https://constitution.congress.gov/constitution/amendment-22/)
-- [Twenty-Third Amendment](https://constitution.congress.gov/constitution/amendment-23/)
-- [Twenty-Fourth Amendment](https://constitution.congress.gov/constitution/amendment-24/)
-- [Twenty-Fifth Amendment](https://constitution.congress.gov/constitution/amendment-25/)
-- [Twenty-Sixth Amendment](https://constitution.congress.gov/constitution/amendment-26/)
-- [Twenty-Seventh Amendment](https://constitution.congress.gov/constitution/amendment-27/)
+## Constitutional Amendments
+<details>
+<summary>Amendment Links</summary>
+
+- [1st Amendment](https://constitution.congress.gov/constitution/amendment-1/)
+- [2nd Amendment](https://constitution.congress.gov/constitution/amendment-2/)
+- [3rd Amendment](https://constitution.congress.gov/constitution/amendment-3/)
+- [4th Amendment](https://constitution.congress.gov/constitution/amendment-4/)
+- [5th Amendment](https://constitution.congress.gov/constitution/amendment-5/)
+- [6th Amendment](https://constitution.congress.gov/constitution/amendment-6/)
+- [7th Amendment](https://constitution.congress.gov/constitution/amendment-7/)
+- [8th Amendment](https://constitution.congress.gov/constitution/amendment-8/)
+- [9th Amendment](https://constitution.congress.gov/constitution/amendment-9/)
+- [10th Amendment](https://constitution.congress.gov/constitution/amendment-10/)
+- [11th Amendment](https://constitution.congress.gov/constitution/amendment-11/)
+- [12th Amendment](https://constitution.congress.gov/constitution/amendment-12/)
+- [13th Amendment](https://constitution.congress.gov/constitution/amendment-13/)
+- [14th Amendment](https://constitution.congress.gov/constitution/amendment-14/)
+- [15th Amendment](https://constitution.congress.gov/constitution/amendment-15/)
+- [16th Amendment](https://constitution.congress.gov/constitution/amendment-16/)
+- [17th Amendment](https://constitution.congress.gov/constitution/amendment-17/)
+- [18th Amendment](https://constitution.congress.gov/constitution/amendment-18/)
+- [19th Amendment](https://constitution.congress.gov/constitution/amendment-19/)
+- [20th Amendment](https://constitution.congress.gov/constitution/amendment-20/)
+- [21st Amendment](https://constitution.congress.gov/constitution/amendment-21/)
+- [22nd Amendment](https://constitution.congress.gov/constitution/amendment-22/)
+- [23rd Amendment](https://constitution.congress.gov/constitution/amendment-23/)
+- [24th Amendment](https://constitution.congress.gov/constitution/amendment-24/)
+- [25th Amendment](https://constitution.congress.gov/constitution/amendment-25/)
+- [26th Amendment](https://constitution.congress.gov/constitution/amendment-26/)
+- [27th Amendment](https://constitution.congress.gov/constitution/amendment-27/)
 
 </details>
 
