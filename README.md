@@ -40,17 +40,23 @@
 | **VASCAR** | - | Manual speed detection from moving or stationary positions. | Several states |
 | **Automated** | - | Fixed detectors for traffic monitoring and automatic ticketing. | Various states |
 
-## Police Traffic Stop Encounter; *Step-by-Step* Instructions
-| ``What to expect`` | ``What to do/say`` |
-|-|-|
-| The officer asks for ANYTHING (*other than ID and proof of insurence in a actual LEGAL stop where they DO have a valid reason*) | Tell the officer "*I want to consult an attorney before I answer that*" |
-| The officer comes up to your window. | Ask the officer "*What's your name & badge number*" - The officer HAS to provide you with this info by their Agency Policy. |
-| The officer says "*Do you know why I pulled you over?*" | Inform the officer "*No*", DO NOT admit to anything! Anything you say can and will be used against you in a court of law. |
-| The officer pulls you over, but you don't know why. | Ask the officer "*Whats your reasonable articulable suspicion for the stop?*" |
-| The officer asks you non-required questions during the stop. | Plead/Invoke the 5th amendment and specify "*I don't answer questions.*" |
-| The officer says they'll arrest you, *lie*, etc if you do not provide Identification. (Only reject if the officer doesn't have any reasonable articulable suspicion.) | Don't worry, it's a scare tactic police use to obtain your info. Plead/Invoke the 4th & 5th amendment, and don't cooperate with the officer. |
-| The officer asks to search your vehicle (*without any reasonable articulable suspicion*) | Simply tell the officer "*No officer, I don't concent to a search.*" If the officer searches it anyway without any RAS; that's called an illegal search that you may sue them for. |
-| The officer asks "*Do you have any weapons or anything illegal in your car?*" you respond with "*no*", they then follow up with that question with another and ask "*Do you mind if we take a look?*" | This is a trick question police use to obtain consent to search your vehicle; respond with "*Officer I do mind*" or "*Officer I don't concent to a search*". |
+# Comprehensive Guide to Police Traffic Stop Encounters
+## Complete Step-by-Step Guide
+| **What to Expect** | **What to Do/Say** |
+|--------------------|--------------------|
+| The officer asks for anything other than ID and proof of insurance in a legal stop where they have a valid reason. | "I want to consult an attorney before I answer that." |
+| The officer comes up to your window. | "What's your name and badge number?" Officers must provide this information according to their agency policy. |
+| The officer asks, "Do you know why I pulled you over?" | "No," and do not admit to anything. Statements can be used against you in court. |
+| You're unsure why the officer pulled you over. | "What's your reasonable articulable suspicion for the stop?" |
+| The officer asks non-required questions during the stop. | Invoke the 5th Amendment: "I don't answer questions." |
+| The officer threatens arrest, lies, etc., if you do not provide identification (only applicable if there's no reasonable suspicion). | Use as a scare tactic. Invoke the 4th & 5th Amendments and refrain from further cooperation. |
+| The officer asks to search your vehicle without reasonable suspicion. | "No officer, I do not consent to a search." Contest any illegal search in court. |
+| The officer asks if you have weapons or illegal items and requests a search. | "I do mind," or "I do not consent to a search," to deny consent. |
+| The officer issues a ticket or citation. | Accept the ticket without argument. You can contest the citation later in court. |
+| The officer instructs you to exit the vehicle. | Comply with the order. Physical resistance can lead to arrest or harm. |
+| The traffic stop seems unnecessarily prolonged without cause. | Politely inquire, "Am I free to go?" If detained without cause, remember this for a legal challenge. |
+| Encounter escalates without clear reason. | Remain calm. Say, "I am not resisting, but I do not consent to any search." Document the encounter if possible. |
+| You're detained or arrested. | Clearly state, "I am invoking my right to remain silent and wish to speak with an attorney." Do not resist arrest. |
 
 ## Police Physical/Verbal Tactics
 | ``Pulled Over Help`` |
