@@ -17,7 +17,7 @@
 | #4 Escort Redline360C | [Link](https://www.amazon.com/dp/B08B46HBCT) | *Everything* |
 | ``License Plate Modifiers`` | ``Links`` |
 | noPhoto 2.0 | [Link](https://www.voxxelectronics.com/search/?sku=NP1) |
-| PDLC (polymer-dispersed liquid crystal) Plate Cover |  |
+| PDLC (Polymer-Dispersed Liquid Crystal) Film | [ghostplate](https://www.ghostplate.com/) |
 | ``Radio Communication`` | ``Links`` |
 | BAOFENG BF-F8H | [Link](https://www.amazon.com/dp/B00MAULSOK) | Communicate with friends, listen into the radio, or best listen into police activity only in a radius around you |
 | Uniden-HomePatrol-2 | [Link](https://www.amazon.com/dp/B00JJY6S72) | This model lets you quickly hear communications systems used by Public Safety, Police, Fire, Ambulance, Aircraft, Military, Weather, and more. |
