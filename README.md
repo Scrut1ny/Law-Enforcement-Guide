@@ -2,7 +2,7 @@
 * [Arrests](https://arrests.org/)
   * [AI Face Search](https://facesearch.arrests.org/)
 * [Photo Enforced](https://www.photoenforced.com/)
-* [radioreference](https://www.radioreference.com/db/)
+* [radioreference](https://www.radioreference.com/db/browse/)
 * [broadcastify](https://www.broadcastify.com/listen/)
 
 ## Equipment to Avoid Police
