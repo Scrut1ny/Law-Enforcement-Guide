@@ -14,15 +14,17 @@
 | #1 Sherlock: The Police Detector | [Link](https://thepolicedetector.com/index.html) | Microwave Imaging |
 | ``Radar Detectors`` | ``Links`` |
 | #1 Uniden R9 | Coming Soon... | *Everything* + Laser Jamming! |
-| #2 Uniden R8 | [Link](https://www.amazon.com/dp/B09TWX4KFY) | *Everything* |
-| #3 Uniden R7 | [Link](https://www.amazon.com/dp/B07PJ2ZX6R) | *Everything* |
-| #4 Escort Redline360C | [Link](https://www.amazon.com/dp/B08B46HBCT) | *Everything* |
+| #2 Uniden R8 | [Amazon](https://www.amazon.com/dp/B09TWX4KFY) | *Everything* |
+| #3 Uniden R7 | [Amazon](https://www.amazon.com/dp/B07PJ2ZX6R) | *Everything* |
+| #4 Escort Redline360C | [Amazon](https://www.amazon.com/dp/B08B46HBCT) | *Everything* |
 | ``License Plate Modifiers`` | ``Links`` |
 | noPhoto 2.0 | [Link](https://www.voxxelectronics.com/search/?sku=NP1) |
 | PDLC (Polymer-Dispersed Liquid Crystal) Film | [ghostplate](https://www.ghostplate.com/) |
 | ``Radio Communication`` | ``Links`` |
-| BAOFENG BF-F8H | [Link](https://www.amazon.com/dp/B00MAULSOK) | Communicate with friends, listen into the radio, or best listen into police activity only in a radius around you |
-| Uniden-HomePatrol-2 | [Link](https://www.amazon.com/dp/B00JJY6S72) | This model lets you quickly hear communications systems used by Public Safety, Police, Fire, Ambulance, Aircraft, Military, Weather, and more. |
+| Uniden Bearcat BC75XLT | [Amazon](https://www.amazon.com/dp/B00A1VSO9M) |  |
+| Uniden Bearcat BC125AT | [Amazon](https://www.amazon.com/dp/B00772MR0K) |  |
+| Uniden SDS100 | [Amazon](https://www.amazon.com/dp/B07DK26FDN) |  |
+| Uniden-HomePatrol-2 | [Amazon](https://www.amazon.com/dp/B00JJY6S72) | This model lets you quickly hear communications systems used by Public Safety, Police, Fire, Ambulance, Aircraft, Military, Weather, and more. |
 | ``Apps`` | ``Links`` |  |
 | Police Scanner Radio & Fire | [IOS Link](https://apps.apple.com/us/app/police-scanner-radio-fire/id498405045) - [Android Link](https://play.google.com/store/apps/details?id=com.scannerradio) | Listen into all EMS, Firefighter, & police activity in your county |
 | Waze Navigation & Live Traffic | [IOS Link](https://apps.apple.com/us/app/waze-navigation-live-traffic/id323229106) - [Android Link](https://play.google.com/store/apps/details?id=com.waze) | Find your way around the states but also be alert by hazards and especially police |
