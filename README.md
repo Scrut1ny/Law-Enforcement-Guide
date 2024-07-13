@@ -21,9 +21,9 @@
 | noPhoto 2.0 | [Link](https://www.voxxelectronics.com/search/?sku=NP1) |
 | PDLC (Polymer-Dispersed Liquid Crystal) Film | [ghostplate](https://www.ghostplate.com/) |
 | ``Radio Communication`` | ``Links`` |
-| Uniden Bearcat BC75XLT | [Amazon](https://www.amazon.com/dp/B00A1VSO9M) |  |
-| Uniden Bearcat BC125AT | [Amazon](https://www.amazon.com/dp/B00772MR0K) |  |
-| Uniden SDS100 | [Amazon](https://www.amazon.com/dp/B07DK26FDN) |  |
+| Uniden Bearcat BC75XLT | [Amazon](https://www.amazon.com/dp/B00A1VSO9M) - [Program](https://info.uniden.com/twiki/bin/view/UnidenMan4/BC75XLT)|  |
+| Uniden Bearcat BC125AT | [Amazon](https://www.amazon.com/dp/B00772MR0K) - [Program](https://info.uniden.com/twiki/bin/view/UnidenMan4/BC125ATFirmwareUpdate) |  |
+| Uniden SDS100 | [Amazon](https://www.amazon.com/dp/B07DK26FDN) - [Program](https://info.uniden.com/twiki/pub/UnidenMan4/BCD536HP/BCDx36HP_Sentinel_Version_2_05_03.zip) |  |
 | Uniden-HomePatrol-2 | [Amazon](https://www.amazon.com/dp/B00JJY6S72) | This model lets you quickly hear communications systems used by Public Safety, Police, Fire, Ambulance, Aircraft, Military, Weather, and more. |
 | ``Apps`` | ``Links`` |  |
 | Police Scanner Radio & Fire | [IOS Link](https://apps.apple.com/us/app/police-scanner-radio-fire/id498405045) - [Android Link](https://play.google.com/store/apps/details?id=com.scannerradio) | Listen into all EMS, Firefighter, & police activity in your county |
