@@ -18,7 +18,9 @@
 | #3 Uniden R7 | [Amazon](https://www.amazon.com/dp/B07PJ2ZX6R) | *Everything* |
 | #4 Escort Redline360C | [Amazon](https://www.amazon.com/dp/B08B46HBCT) | *Everything* |
 | ``License Plate Modifiers`` | ``Links`` |
+| PDLC License Plate Cover | [Link](https://www.alibaba.com/product-detail/Custom-Electric-Plate-Holder-White-Vanishing_1601061686630.html) |
 | noPhoto 2.0 | [Link](https://www.voxxelectronics.com/search/?sku=NP1) |
+| mrplatecover.com | [Link](https://mrplatecover.com/products/ghost-cover-privacy-plate-anti-camera-smoke-copy) |
 | PDLC (Polymer-Dispersed Liquid Crystal) Film | [ghostplate](https://www.ghostplate.com/) |
 | ``Radio Communication`` | ``Links`` |
 | Uniden Bearcat BC75XLT | [Amazon](https://www.amazon.com/dp/B00A1VSO9M) - [Program](https://info.uniden.com/twiki/bin/view/UnidenMan4/BC75XLT)|  |
