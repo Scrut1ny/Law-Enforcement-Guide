@@ -19,6 +19,7 @@
 | #4 Escort Redline360C | [Amazon](https://www.amazon.com/dp/B08B46HBCT) | *Everything* |
 | ``License Plate Modifiers`` | ``Links`` |
 | PDLC License Plate Cover | [Link](https://www.alibaba.com/product-detail/Custom-Electric-Plate-Holder-White-Vanishing_1601061686630.html) |
+| PDLC License Plate Cover | [Link](https://www.alibaba.com/product-detail/2024-NEW-Fog-License-Plate-Holder_1601199677063.html) |
 | noPhoto 2.0 | [Link](https://www.voxxelectronics.com/search/?sku=NP1) |
 | mrplatecover.com | [Link](https://mrplatecover.com/products/ghost-cover-privacy-plate-anti-camera-smoke-copy) |
 | PDLC (Polymer-Dispersed Liquid Crystal) Film | [ghostplate](https://www.ghostplate.com/) |
