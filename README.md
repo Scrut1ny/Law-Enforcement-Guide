@@ -1,13 +1,25 @@
 ## Websites
+
+#### Arrests / Mugshots / Criminal Info
 * [Arrests](https://arrests.org/)
   * [AI Face Search](https://facesearch.arrests.org/)
+
+#### red light, speed, traffic, ALPR, safety, school zone, and license plate reader camera database
 * [Photo Enforced](https://www.photoenforced.com/)
+
+#### radio communications, data management, and media providers
 * [radioreference](https://www.radioreference.com/db/browse/)
 * [broadcastify](https://www.broadcastify.com/listen/)
 
 ## Equipment to Avoid Police
 <details>
 <summary>Expand...</summary>
+
+#### Best Shopping Websites
+* [amazon](https://www.amazon.com/)
+* [aliexpress](https://www.aliexpress.com/)
+* [alibaba](https://www.alibaba.com/)
+* [temu](https://www.temu.com/)
 
 | ``Microwave Detector`` | ``Links`` | ``Specs/Includes`` |
 |-|-|-|
