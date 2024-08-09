@@ -36,7 +36,7 @@
 | noPhoto 2.0 | [Link](https://www.voxxelectronics.com/search/?sku=NP1) |
 | mrplatecover.com | [Link](https://mrplatecover.com/products/ghost-cover-privacy-plate-anti-camera-smoke-copy) |
 | PDLC (Polymer-Dispersed Liquid Crystal) Film | [ghostplate](https://www.ghostplate.com/) |
-| ``GSM 2G 3G 4G 5G GPS WiFi 2.4G 5.8G Jammers`` | ``Links`` |
+| ``Cellular (2G, 3G, 4G, 5G), GPS, WiFi (2.4G, 5.8G) Jammers`` | ``Links`` |
 | Handheld 10 Channel Portable Mobile Phone GSM 2G 3G 4G 5G GPS WiFi 2.4G 5.8G Signal Detector device N10 | [alibaba](https://www.alibaba.com/product-detail/Handheld-10-Channel-Portable-Mobile-Phone_1601052075117.html) |
 | ``Radio Communication`` | ``Links`` |
 | Uniden Bearcat BC75XLT | [Amazon](https://www.amazon.com/dp/B00A1VSO9M) - [Program](https://info.uniden.com/twiki/bin/view/UnidenMan4/BC75XLT)|  |
