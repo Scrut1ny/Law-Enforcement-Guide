@@ -25,17 +25,16 @@
 |-|-|-|
 | #1 Sherlock: The Police Detector | [Link](https://thepolicedetector.com/index.html) | Microwave Imaging |
 | ``Radar Detectors`` | ``Links`` |
-| #1 Uniden R9 | Coming Soon... | *Everything* + Laser Jamming! |
+| #1 Uniden R9w | [Uniden](https://uniden.com/pages/pro-installed) | *Everything* + Laser Jamming! |
 | #2 Uniden R8 | [Amazon](https://www.amazon.com/dp/B09TWX4KFY) | *Everything* |
 | #3 Uniden R7 | [Amazon](https://www.amazon.com/dp/B07PJ2ZX6R) | *Everything* |
 | #4 Escort Redline360C | [Amazon](https://www.amazon.com/dp/B08B46HBCT) | *Everything* |
 | ``License Plate Modifiers`` | ``Links`` |
-| PDLC License Plate Cover | [Link](https://www.alibaba.com/product-detail/Custom-Electric-Plate-Holder-White-Vanishing_1601061686630.html) |
-| PDLC License Plate Cover | [Link](https://www.alibaba.com/product-detail/Electrochromic-Plate-Pdlc-Car-Electrical-Remote_1601022210750.html) |
-| PDLC License Plate Cover | [Link](https://www.alibaba.com/product-detail/2024-NEW-Fog-License-Plate-Holder_1601199677063.html) |
-| noPhoto 2.0 | [Link](https://www.voxxelectronics.com/search/?sku=NP1) |
-| mrplatecover.com | [Link](https://mrplatecover.com/products/ghost-cover-privacy-plate-anti-camera-smoke-copy) |
-| PDLC (Polymer-Dispersed Liquid Crystal) Film | [ghostplate](https://www.ghostplate.com/) |
+| 🥇 Zhenxinauto 🥇 | [Link](https://zhenxinauto.com/) |
+| bl4ckoutlabs (3rd Party Resellers) | [Link](https://bl4ckoutlabs.com/) |
+| platevanish (3rd Party Resellers) | [Link](https://platevanish.com/) |
+| vusistudios (3rd Party Resellers) | [Link](https://vusistudios.com/) |
+| mutedplate (3rd Party Resellers) | [Link](https://mutedplate.com/) |
 | ``Cellular (2G, 3G, 4G, 5G), GPS, WiFi (2.4G, 5.8G) Jammers`` | ``Links`` |
 | Handheld 10 Channel Portable Mobile Phone GSM 2G 3G 4G 5G GPS WiFi 2.4G 5.8G Signal Detector device N10 | [alibaba](https://www.alibaba.com/product-detail/Handheld-10-Channel-Portable-Mobile-Phone_1601052075117.html) |
 | ``Radio Communication`` | ``Links`` |
