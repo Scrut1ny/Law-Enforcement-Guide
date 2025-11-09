@@ -30,7 +30,7 @@
 | #3 Uniden R7 | [Amazon](https://www.amazon.com/dp/B07PJ2ZX6R) | *Everything* |
 | #4 Escort Redline360C | [Amazon](https://www.amazon.com/dp/B08B46HBCT) | *Everything* |
 | ``License Plate Modifiers`` | ``Links`` |
-| 🥇 Zhenxinauto 🥇 | [Link](https://zhenxinauto.com/) |
+| 🥇 Zhenxinauto 🥇 (OEM) | [Link](https://zhenxinauto.com/) |
 | bl4ckoutlabs (3rd Party Resellers) | [Link](https://bl4ckoutlabs.com/) |
 | platevanish (3rd Party Resellers) | [Link](https://platevanish.com/) |
 | vusistudios (3rd Party Resellers) | [Link](https://vusistudios.com/) |
